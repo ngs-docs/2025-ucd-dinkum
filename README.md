@@ -1,2 +1,4 @@
-# 2024-gern-dinkum
-Notebooks for MBL GERN 2024
+# 2025-ucd-dinkum
+
+Notebooks for UC Davis - Intro to Gene Regulatory Networks - 2025 offering
+(BCB 298).
